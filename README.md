@@ -4,7 +4,7 @@
 > **Candidate:** Patel YatinKumar  
 > **Technology Stack:** React.js (Vite) + Supabase Auth & RLS Postgres + Ant Design (v5) + Zod + React Hook Form + Vitest
 
-## Live Preview :-- https://time-sheet-dashboard.vercel.app/login
+## Live Preview :-- https://time-sheet-dashboard.vercel.app
 
 ## 🌟 Executive Overview
 
